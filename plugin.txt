@@ -1,2 +1,2 @@
 name "More Purchasable Ships"
-about "This plugin currently makes it possible to buy the Enforcer and Saber, which otherwise only show up in the far South of Human Space as capturable ships."
+about "This plugin currently makes it possible to buy the Enforcer and Saber, which otherwise only show up in the far South of Human Space as capturable ships. It also adds the five modified Pirate ships which either languish unused in the game's code or show up exactly once."
